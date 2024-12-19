@@ -1,0 +1,12 @@
+body {
+    margin: 0 auto;
+    padding: 30px;
+  }
+  
+  button {
+    margin: 0 auto;
+  }
+  
+  .winner {
+    color: green;
+  }
